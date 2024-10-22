@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying [Applied Informatics in Czech Technical University](https://fjfi.cvut.cz/cz/studium/bakalarske-studium/studijni-programy/aplikovana-informatika-bc-aktualni)
 
-- 🌱 I’m currently learning **Web development using Python, Django, Flask, and Jinja**
+- 🌱 I’m currently learning **Web Development using Python, Django, Flask, and Jinja**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panovark?tab=repositories](https://github.com/panovark?tab=repositories)
 
