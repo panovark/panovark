@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Arkadiy</h1>
-<h3 align="center">An IT student of CTU in Prague</h3>
+<h3 align="center">An IT student</h3>
 
 - 🔭 I’m currently studying [Applied Informatics in Czech Technical University](https://fjfi.cvut.cz/cz/studium/bakalarske-studium/studijni-programy/aplikovana-informatika-bc-aktualni)
 
