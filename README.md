@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/panovark?tab=repositories](https://github.com/panovark?tab=repositories)
 
-- 📫 You can reach me **via Telegram: arkdyy or e-mail: arkadiypanov406@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arkadiy-panov-4b5916312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkadiy-panov-4b5916312/" height="30" width="40" /></a>
