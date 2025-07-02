@@ -1,25 +1,59 @@
-<h1 align="center">Hello, my name is Arkadiy</h1>
-<h3 align="center">An IT student</h3>
+<h1 align="center">Hello, my name is Arkadiy 👋</h1>
 
-- 🔭 I’m currently studying [Applied Informatics in Czech Technical University](https://fjfi.cvut.cz/cz/studium/bakalarske-studium/studijni-programy/aplikovana-informatika-bc-aktualni)
-
-- 👨‍💻 All of my projects are available at [https://github.com/panovark?tab=repositories](https://github.com/panovark?tab=repositories)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arkadiy-panov-4b5916312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkadiy-panov-4b5916312/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arkdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arkdyy/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/arkadiypanov406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arkadiypanov406" height="30" width="40" /></a>
+<p align="center">
+  <b>IT student • Software Engineer • Trilingual</b><br>
+  I build programs and tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/panovark" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.cvut.cz/en" target="_blank"><img alt="CTU" src="https://img.shields.io/badge/CTU WEBSITE-004B8D?style=for-the-badge&logoColor=white"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panovark&show_icons=true&locale=en&layout=compact" alt="panovark" /></p>
+---
+
+### 🧠 What I Do
+
+- 🌐 **Entry-Level Front-End** — React & TypeScript (in progress) • HTML & CSS • vanilla JavaScript
+- ⚙️ **Entry-Level Back-End** — Node.js & Express • Next.js (in progress)
+- 🔧 **DevOps Basics** — Docker • docker-compose
+
+---
+
+### 🔥 Tech Stack
+
+```ts
+// ✅  Already use
+Languages:   Python, JavaScript, C++, SQL basics
+Frontend:    HTML & CSS, Vanilla JS
+Backend:     Node.js & Express
+DevOps:      Docker, docker-compose
+Testing:     pytest
+
+// 🚧  Learning next
+Languages:   TypeScript
+Frontend:    React, Tailwind CSS
+Backend:     REST APIs, PostgreSQL, JWT-auth
+Testing:     Jest, React-Testing-Library
+CI/CD:       GitHub Actions, Vercel deploy
+```
+
+---
+
+### 🚀 Projects
+
+- 🟦 **Wordle game clone** — Node.js API, Docker Compose, vanilla JS/CSS — [repo](https://github.com/panovark/wordle-copy)
+- 🔢 **Python CSR sparse-matrix lib** — pure Python, pytest (~70% coverage) — [repo](https://github.com/panovark/CSR_Matrix_Implementation)
+- 🎮 **Pac-Man simple clone** — C++20 / SFML, CMake, sound + input polish — [repo](https://github.com/panovark/pacman)
+- 🔸 **2048 game clone** — Python / pygame, pytest (~65% coverage) — [repo](https://github.com/panovark/2048_game)
+
+*More projects in the pipeline…*
+
+---
+
+### 💬 You could reach me via
+
+- 💼 LinkedIn: [linkedin.com/in/panovark](https://linkedin.com/in/panovark)
+- 📨 e-mail: arkadiypanov406@gmail.com
+- 📲 Telegram: [t.me/arkdyy](https://t.me/arkdyy)
+
