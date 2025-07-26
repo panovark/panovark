@@ -55,5 +55,5 @@ CI/CD:       GitHub Actions, Vercel deploy
 ### 💬 You could reach me via
 
 - 💼 LinkedIn: [linkedin.com/in/panovark](https://linkedin.com/in/panovark)
-- 📨 e-mail: arkadiypanov406@gmail.com
+- 📨 e-mail: arkadiypanov.dev@gmail.com
 
