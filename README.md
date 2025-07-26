@@ -46,7 +46,7 @@ CI/CD:       GitHub Actions, Vercel deploy
 - **CSS day** - vanilla HTML/CSS/JS, modern layout techniques (Flexbox + Grid), and the BEM naming methodology - [repo](https://github.com/panovark/fem-css-foundations) / [try](https://fem-css-foundations-beta.vercel.app)
 - **Python CSR sparse-matrix lib** — pure Python, pytest (~70% coverage) — [repo](https://github.com/panovark/CSR_Matrix_Implementation)
 - **Pac-Man simple clone** — C++20 / SFML, CMake, sound + input polish — [repo](https://github.com/panovark/pacman)
-- **2048 game clone** — Python / pygame, pytest (~65% coverage) — [repo](https://github.com/panovark/2048_game)
+- **2048 game clone** — Python / pygame, pytest (~65% coverage) — [repo](https://github.com/panovark/2048_game) / [try](https://2048-game-eight-bice.vercel.app)
 
 *More projects in the pipeline…*
 
