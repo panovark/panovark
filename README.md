@@ -24,24 +24,25 @@
 
 ```ts
 // ✅  Already use
-Languages:   Python, JavaScript, C++, SQL basics
-Frontend:    HTML & CSS, Vanilla JS
-Backend:     Node.js & Express
+Languages:   JavaScript, Python, C++, SQL basics
+Frontend:    HTML & CSS, Vanilla JS, React, Vite, TanStack Query, TanStack Router
+Backend:     Node.js & Express, SQLite
 DevOps:      Docker, docker-compose
-Testing:     pytest
+Testing:     Playwright, Vitest, React-Testing-Library, pytest
+CI/CD:       Vercel deploy, Render deploy
 
 // 🚧  Learning next
 Languages:   TypeScript
-Frontend:    React, Tailwind CSS
-Backend:     REST APIs, PostgreSQL, JWT-auth
-Testing:     Jest, React-Testing-Library
-CI/CD:       GitHub Actions, Vercel deploy
+Frontend:    Tailwind CSS
+Backend:     REST APIs (details), PostgreSQL, JWT-auth
+Testing:     Jest
 ```
 
 ---
 
 ### 🚀 Projects
 
+- **Pizza Restaurant Order Page** - A full-stack React project built as part of the Complete Intro to React v9 course by Brian Holt on Frontend Masters - [repo](https://github.com/panovark/order-pizza)
 - **Wordle game clone** — Node.js API, Docker Compose, vanilla JS/CSS — [repo](https://github.com/panovark/wordle-copy) / [try](https://wordle-copy.onrender.com)
 - **CSS day** - vanilla HTML/CSS/JS, modern layout techniques (Flexbox + Grid), and the BEM naming methodology - [repo](https://github.com/panovark/fem-css-foundations) / [try](https://fem-css-foundations-beta.vercel.app)
 - **Python CSR sparse-matrix lib** — pure Python, pytest (~70% coverage) — [repo](https://github.com/panovark/CSR_Matrix_Implementation)
