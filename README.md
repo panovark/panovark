@@ -14,9 +14,9 @@
 
 ### 🧠 What I Do
 
-- 🌐 **Entry-Level Front-End** — React & TypeScript (in progress) • HTML & CSS • vanilla JavaScript
-- ⚙️ **Entry-Level Back-End** — Node.js & Express • Next.js (in progress)
-- 🔧 **DevOps Basics** — Docker • docker-compose
+- 🌐 **Entry-Level Front-End** — React • Vite • JavaScript • TypeScript (in progress)
+- ⚙️ **Entry-Level Back-End** — Node.js & Express • SQLite
+- **Check my full Tech Stack below👇**
 
 ---
 
