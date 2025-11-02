@@ -16,7 +16,8 @@
 
 - 🌐 **Entry-Level Front-End** — React • Vite • JavaScript • TypeScript (in progress)
 - ⚙️ **Entry-Level Back-End** — Node.js & Express • SQLite
-- **Check my full Tech Stack below👇**
+
+**Check my full Tech Stack below👇**
 
 ---
 
