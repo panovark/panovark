@@ -26,10 +26,10 @@
 ```ts
 // ✅  Already use
 Languages:   JavaScript, Python, C++, SQL basics
-Frontend:    HTML & CSS, Vanilla JS, React, Vite, TanStack Query, TanStack Router
+Frontend:    React, Vite, TanStack Query, TanStack Router, HTML & CSS, Vanilla JS
 Backend:     Node.js & Express, SQLite
 DevOps:      Docker, docker-compose
-Testing:     Playwright, Vitest, React-Testing-Library, pytest
+Testing:     Vitest, React-Testing-Library, Playwright, pytest
 CI/CD:       Vercel deploy, Render deploy
 
 // 🚧  Learning next
