@@ -14,10 +14,10 @@
 
 ### 🧠 What I Do
 
-- 🌐 **Entry-Level Front-End** — React • Vite • JavaScript • TypeScript (in progress)
+- 🌐 **Entry-Level Front-End** — React • Vite • JavaScript • TypeScript
 - ⚙️ **Entry-Level Back-End** — Node.js & Express • SQLite
 
-**Check my full Tech Stack below👇**
+**And other related technologies. Check my full Tech Stack below👇**
 
 ---
 
@@ -25,18 +25,12 @@
 
 ```ts
 // ✅  Already use
-Languages:   JavaScript, Python, C++, SQL basics
-Frontend:    React, Vite, TanStack Query, TanStack Router, HTML & CSS, Vanilla JS
+Languages:   JavaScript, TypeScript (learning), Python, SQL (basics), C++ (basics)
+Frontend:    React, Vite, TanStack Query/Router, Tailwind CSS, Vanilla JS
 Backend:     Node.js & Express, SQLite
-DevOps:      Docker, docker-compose
-Testing:     Vitest, React-Testing-Library, Playwright, pytest
+DevOps:      Docker (basics), docker-compose (basics)
+Testing:     Vitest, React Testing Library, vitest/coverage-v8, Playwright, pytest
 CI/CD:       Vercel deploy, Render deploy
-
-// 🚧  Learning next
-Languages:   TypeScript
-Frontend:    Tailwind CSS
-Backend:     REST APIs (details), PostgreSQL, JWT-auth
-Testing:     Jest
 ```
 
 ---
