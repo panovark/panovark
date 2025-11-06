@@ -24,7 +24,6 @@
 ### 🔥 Tech Stack
 
 ```ts
-// ✅  Already use
 Languages:   JavaScript, TypeScript (learning), Python, SQL (basics), C++ (basics)
 Frontend:    React, Vite, TanStack Query/Router, Tailwind CSS, Vanilla JS
 Backend:     Node.js & Express, SQLite
