@@ -14,7 +14,7 @@
 
 ### 🧠 What I Do
 
-- 🌐 **Entry-Level Front-End** — React • Vite • JavaScript • TypeScript
+- 🌐 **Front-End** — React • Vite • JavaScript • TypeScript
 - ⚙️ **Entry-Level Back-End** — Node.js & Express • SQLite
 
 **And other related technologies. Check my full Tech Stack below👇**
