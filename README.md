@@ -24,7 +24,7 @@
 ### 🔥 Tech Stack
 
 ```ts
-Languages:   JavaScript, TypeScript (learning), Python, SQL (basics), C++ (basics)
+Languages:   JavaScript, TypeScript, Python, SQL (basics), C++ (basics)
 Frontend:    React, Vite, TanStack Query/Router, Tailwind CSS, Vanilla JS
 Backend:     Node.js & Express, SQLite
 DevOps:      Docker (basics), docker-compose (basics)
