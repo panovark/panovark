@@ -36,7 +36,7 @@ CI/CD:       Vercel deploy, Render deploy
 
 ### 🚀 Projects
 
-- **Trivia Data Visualization Tool** — A TypeScript + Vite + React 19 dashboard that fetches 50 trivia questions from the Open Trivia DB API, cleans the data, and visualizes categories and difficulty levels with interactive filters, charts, and a persistent theme toggle. — [repo](https://github.com/panovark/data-visualizer) / [try](data-visualizer-snowy-one.vercel.app)
+- **Trivia Data Visualization Tool** — A TypeScript + Vite + React 19 dashboard that fetches 50 trivia questions from the Open Trivia DB API, cleans the data, and visualizes categories and difficulty levels with interactive filters, charts, and a persistent theme toggle. — [repo](https://github.com/panovark/data-visualizer) / [try](https://data-visualizer-snowy-one.vercel.app)
 - **Pizza Restaurant Order Page** — A full-stack React project built as part of the Complete Intro to React v9 course by Brian Holt on Frontend Masters — [repo](https://github.com/panovark/order-pizza)
 - **Wordle game clone** — Node.js API, Docker Compose, vanilla JS/CSS — [repo](https://github.com/panovark/wordle-copy) / [try](https://wordle-copy.onrender.com)
 - **CSS day** — vanilla HTML/CSS/JS, modern layout techniques (Flexbox + Grid), and the BEM naming methodology — [repo](https://github.com/panovark/fem-css-foundations) / [try](https://fem-css-foundations-beta.vercel.app)
