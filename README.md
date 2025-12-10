@@ -1,7 +1,7 @@
-<h1 align="center">Hello, my name is Arkadiy 👋</h1>
+<h1 align="center">Hello, my name is Arkadiy</h1>
 
 <p align="center">
-  <b>IT student • Software Engineer • Trilingual</b><br>
+  <b>IT student • Software Engineer • Contributor</b><br>
   I build programs and tools.
 </p>
 
@@ -12,16 +12,16 @@
 
 ---
 
-### 🧠 What I Do
+### What I Do
 
-- 🌐 **Front-End** — React • Vite • JavaScript • TypeScript
-- ⚙️ **Entry-Level Back-End** — Node.js & Express • SQLite
+- **Front-End** — React • Vite • JavaScript • TypeScript
+- **Entry-Level Back-End** — Node.js & Express • SQLite
 
-**And other related technologies. Check my full Tech Stack below👇**
+**And other related technologies.**
 
 ---
 
-### 🔥 Tech Stack
+### Tech Stack
 
 ```ts
 Languages:   JavaScript, TypeScript, Python, SQL (basics), C++ (basics)
@@ -34,7 +34,7 @@ CI/CD:       Vercel deploy, Render deploy
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **Trivia Data Visualization Tool** — A TypeScript + Vite + React 19 dashboard that fetches 50 trivia questions from the Open Trivia DB API, cleans the data, and visualizes categories and difficulty levels with interactive filters, charts, and a persistent theme toggle. — [repo](https://github.com/panovark/data-visualizer) / [try](https://data-visualizer-snowy-one.vercel.app)
 - **Pizza Restaurant Order Page** — A full-stack React project built as part of the Complete Intro to React v9 course by Brian Holt on Frontend Masters — [repo](https://github.com/panovark/order-pizza)
@@ -48,8 +48,8 @@ CI/CD:       Vercel deploy, Render deploy
 
 ---
 
-### 💬 You could reach me via
+### You could reach me via
 
-- 💼 LinkedIn: [linkedin.com/in/panovark](https://linkedin.com/in/panovark)
-- 📨 e-mail: arkadiypanov.dev@gmail.com
+- LinkedIn: [linkedin.com/in/panovark](https://linkedin.com/in/panovark)
+- e-mail: arkadiypanov.dev@gmail.com
 
