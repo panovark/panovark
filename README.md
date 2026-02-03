@@ -36,10 +36,10 @@ CI/CD:       Vercel deploy, Render deploy
 
 ### Projects
 
+- **Product Landing Page** — A modern, responsive landing page for the Luxonis OAK 4 D camera product. — [repo](https://github.com/panovark/product-page) / [try](https://product-page-gold-ten.vercel.app)
 - **Trivia Data Visualization Tool** — A TypeScript + Vite + React 19 dashboard that fetches 50 trivia questions from the Open Trivia DB API, cleans the data, and visualizes categories and difficulty levels with interactive filters, charts, and a persistent theme toggle. — [repo](https://github.com/panovark/data-visualizer) / [try](https://data-visualizer-snowy-one.vercel.app)
 - **Pizza Restaurant Order Page** — A full-stack React project built as part of the Complete Intro to React v9 course by Brian Holt on Frontend Masters — [repo](https://github.com/panovark/order-pizza)
 - **Wordle game clone** — Node.js API, Docker Compose, vanilla JS/CSS — [repo](https://github.com/panovark/wordle-copy) / [try](https://wordle-copy.onrender.com)
-- **CSS day** — vanilla HTML/CSS/JS, modern layout techniques (Flexbox + Grid), and the BEM naming methodology — [repo](https://github.com/panovark/fem-css-foundations) / [try](https://fem-css-foundations-beta.vercel.app)
 - **Python CSR sparse-matrix lib** — pure Python, pytest (~70% coverage) — [repo](https://github.com/panovark/CSR_Matrix_Implementation)
 - **Pac-Man simple clone** — C++20 / SFML, CMake, sound + input polish — [repo](https://github.com/panovark/pacman)
 - **2048 game clone** — Python / pygame, pytest (~65% coverage) — [repo](https://github.com/panovark/2048_game) / [try](https://2048-game-eight-bice.vercel.app)
