@@ -15,7 +15,7 @@
 ### What I Do
 
 - **Front-End** — React • Vite • JavaScript • TypeScript
-- **Entry-Level Back-End** — Node.js & Express • SQLite
+- **High-Level Back-End** — Node.js & Express • Laravel • Django
 
 **And other related technologies.**
 
@@ -24,18 +24,21 @@
 ### Tech Stack
 
 ```ts
-Languages:   JavaScript, TypeScript, Python, SQL (basics), C++ (basics)
-Frontend:    React, Vite, TanStack Query/Router, Tailwind CSS, Vanilla JS
-Backend:     Node.js & Express, SQLite
-DevOps:      Docker (basics), docker-compose (basics)
-Testing:     Vitest, React Testing Library, vitest/coverage-v8, Playwright, pytest
-CI/CD:       Vercel deploy, Render deploy
+Languages:   JavaScript, TypeScript, Python, PHP, C++
+Frontend:    React, Vite, TanStack Router/Query, HTML/CSS, Tailwind CSS, Alpine.js
+Backend:     Express, Laravel, Django
+CMS:         Statamic 5 (Antlers)
+Testing:     Vitest, React Testing Library, Playwright, pytest
+DevOps:      Docker (basic), Docker Compose
+Database:    SQLite, PosgreSQL
+Deploy:      Vercel, Render
 ```
 
 ---
 
 ### Projects
 
+- **Equipment Admin** — A TypeScript + Vite + React 19 admin dashboard for managing company equipment, employee assignments, and loan history. - [repo](https://github.com/panovark/equipment-admin) / [try](https://equipment-admin.vercel.app)
 - **Product Landing Page** — A modern, responsive landing page for the Luxonis OAK 4 D camera product. — [repo](https://github.com/panovark/product-page) / [try](https://product-page-gold-ten.vercel.app)
 - **Trivia Data Visualization Tool** — A TypeScript + Vite + React 19 dashboard that fetches 50 trivia questions from the Open Trivia DB API, cleans the data, and visualizes categories and difficulty levels with interactive filters, charts, and a persistent theme toggle. — [repo](https://github.com/panovark/data-visualizer) / [try](https://data-visualizer-snowy-one.vercel.app)
 - **Pizza Restaurant Order Page** — A full-stack React project built as part of the Complete Intro to React v9 course by Brian Holt on Frontend Masters — [repo](https://github.com/panovark/order-pizza)
